@@ -89,8 +89,6 @@
 
 [18] Salehi, Mohsen, and Karthik Pattabiraman. "Poster AutoPatch: Automatic Hotpatching of Real-Time Embedded Devices." Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security. 2022.
 
-![image](https://user-images.githubusercontent.com/47445756/233863575-75e9a548-23c5-4188-b0e7-4717bb4e93c1.png)
-
 
 
 
