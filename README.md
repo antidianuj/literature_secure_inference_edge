@@ -17,7 +17,7 @@
 | Occlumency [14] | MLaaS (Cloud Intel SGX)        | medium               | SGX vulnerabilities (like side channel, roll back and DoS)                                                                                   | Partial               | High                 | Yes             | None                  | None               | No                           | No                            | No                                    |
 | ShadowNet [15]  | Edge Device with TEE           | medium               | SGX side channel attacks                                                                                                                     | Partial               | No                   | No              | None                  | Small              | Yes                          | Yes                           | No                                    |
 | SOTER [16] | Edge Devices with TEE | medium | SGX Vulnerabilities                                                  | Partial | Yes | Yes | Small | Small | Yes | Yes | Yes |
-| ---------- | --------------------- | ------ | -------------------------------------------------------------------- | ------- | --- | --- | ----- | ----- | --- | --- | --- |
+
 | SFGE [17]  | Edge devices NVM      | low    | Network Completion [1,2], Prone to Side Channel and Physical attacks | Full    | No  | No  | None  | Small | Yes | No  | Yes |
 
 
