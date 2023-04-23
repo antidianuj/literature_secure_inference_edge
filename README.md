@@ -2,6 +2,38 @@
 
 ## Progression-1:
 
+![image](https://user-images.githubusercontent.com/47445756/233863861-60146086-d3eb-4e6d-ad2b-44d39658ac67.png)
+
+### References
+[1] Lee, Taegyeong, et al. "Occlumency: Privacy-preserving remote deep-learning inference using SGX." The 25th Annual International Conference on Mobile Computing and Networking. 2019.
+
+[2] Götzfried, Johannes, et al. "Cache attacks on Intel SGX." Proceedings of the 10th European Workshop on Systems Security. 2017.
+
+[3] Murdock, Kit, et al. "Plundervolt: Software-based fault injection attacks against Intel SGX." 2020 IEEE Symposium on Security and Privacy (SP). IEEE, 2020.
+
+[4] Sun, Zhichuang, et al. "ShadowNet: A Secure and Efficient On-device Model Inference System for Convolutional Neural Networks." 2023 IEEE Symposium on Security and Privacy (SP). IEEE Computer Society, 2022.
+
+[5] Shen, Tianxiang, et al. "{SOTER}: Guarding Black-box Inference for General Neural Networks at the Edge." 2022 USENIX Annual Technical Conference (USENIX ATC 22). 2022.
+
+[6] Khandaker, Mustakimur Rahman, et al. "COIN attacks: On insecurity of enclave untrusted interfaces in SGX." Proceedings of the Twenty-Fifth International Conference on Architectural Support for Programming Languages and Operating Systems. 2020.
+
+[7] Tramer, Florian, and Dan Boneh. "Slalom: Fast, verifiable and private execution of neural networks in trusted hardware." arXiv preprint arXiv:1806.03287 (2018).
+
+[8] Asvadishirehjini, Aref, Murat Kantarcioglu, and Bradley Malin. "Goat: Gpu outsourcing of deep learning training with asynchronous probabilistic integrity verification inside trusted execution environment." arXiv preprint arXiv:2010.08855 (2020).
+
+[9] Cai, Yi, et al. "Enabling Secure in-Memory Neural Network Computing by Sparse Fast Gradient Encryption." ICCAD. 2019.
+
+[10] Lin, Ning, et al. "Chaotic weights: A novel approach to protect intellectual property of deep neural networks." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 40.7 (2020): 1327-1339.
+
+[11] Juvekar, Chiraag, Vinod Vaikuntanathan, and Anantha Chandrakasan. "{GAZELLE}: A low latency framework for secure neural network inference." 27th USENIX Security Symposium (USENIX Security 18). 2018.
+
+[12] Jie, Yixin, et al. "Multi-Party Secure Computation with Intel SGX for Graph Neural Networks." ICC 2022-IEEE International Conference on Communications. IEEE, 2022.
+
+[13] Leyton-Brown, Kevin, and Yoav Shoham. "Essentials of game theory: A concise multidisciplinary introduction." Synthesis lectures on artificial intelligence and machine learning 2.1 (2008): 1-88.
+
+
+## Progression-2:
+
 
 | Work            | Platform                       | Computation Overhead | Attacks on Edge Device                                                                                                                       | Model Confidentiality | Data Confidentiality | Integrity Check | Reduction in Accuracy | Model Modification | Utility of Edge Accelerators | Physical Attack Consideration | Black Box Privacy Attacks Possibility |
 | --------------- | ------------------------------ | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | -------------------- | --------------- | --------------------- | ------------------ | ---------------------------- | ----------------------------- | ------------------------------------- |
@@ -23,23 +55,41 @@
 
 ### References
 [1] Tran, Cong, et al. "${\sf DeepNC} $ DeepNC: Deep Generative Network Completion." IEEE transactions on pattern analysis and machine intelligence 44.4 (2020): 1837-1852.
+
 [2] Kim, Myunghwan, and Jure Leskovec. "The network completion problem: Inferring missing nodes and edges in networks." Proceedings of the 2011 SIAM international conference on data mining. Society for Industrial and Applied Mathematics, 2011.
+
 [3] Gilad-Bachrach, Ran, et al. "Cryptonets: Applying neural networks to encrypted data with high throughput and accuracy." International conference on machine learning. PMLR, 2016.
+
 [4] Lou, Qian, Song Bian, and Lei Jiang. "Autoprivacy: Automated layer-wise parameter selection for secure neural network inference." Advances in Neural Information Processing Systems 33 (2020): 8638-8647.
+
 [5] Liu, Jian, et al. "Oblivious neural network predictions via minionn transformations." Proceedings of the 2017 ACM SIGSAC conference on computer and communications security. 2017.
+
 [6] Juvekar, Chiraag, Vinod Vaikuntanathan, and Anantha Chandrakasan. "{GAZELLE}: A low latency framework for secure neural network inference." 27th {USENIX} Security Symposium ({USENIX} Security 18). 2018.
+
 [7] Srinivasan, Wenting Zheng, P. M. R. L. Akshayaram, and Popa Raluca Ada. "DELPHI: A cryptographic inference service for neural networks." Proc. 29th USENIX Secur. Symp. 2019.
+
 [8] Liu, Renju, et al. "Secdeep: Secure and performant on-device deep learning inference framework for mobile and iot devices." Proceedings of the International Conference on Internet-of-Things Design and Implementation. 2021.
+
 [9] Hua, Weizhe, Zhiru Zhang, and G. Edward Suh. "Reverse engineering convolutional neural networks through side-channel information leaks." Proceedings of the 55th Annual Design Automation Conference. 2018.
+
 [10] Choi, Jinwoo, et al. "GuardiaNN: Fast and Secure On-Device Inference in TrustZone Using Embedded SRAM and Cryptographic Hardware." Proceedings of the 23rd conference on 23rd ACM/IFIP International Middleware Conference. 2022.
+
 [11] Mo, Fan, et al. "Darknetz: towards model privacy at the edge using trusted execution environments." Proceedings of the 18th International Conference on Mobile Systems, Applications, and Services. 2020.
+
 [12] Li, Wen, et al. "Leveraging Memory PUFs and PIM-based encryption to secure edge deep learning systems." 2019 IEEE 37th VLSI Test Symposium (VTS). IEEE, 2019.
+
 [13] Mahmod, Jubayer, and Matthew Hicks. "SRAM has no chill: exploiting power domain separation to steal on-chip secrets." Proceedings of the 27th ACM International Conference on Architectural Support for Programming Languages and Operating Systems. 2022.
+
 [14] Lee, Taegyeong, et al. "Occlumency: Privacy-preserving remote deep-learning inference using sgx." The 25th Annual International Conference on Mobile Computing and Networking. 2019.
+
 [15] Sun, Zhichuang, et al. "ShadowNet: A Secure and Efficient On-device Model Inference System for Convolutional Neural Networks." 2023 IEEE Symposium on Security and Privacy (SP). IEEE Computer Society, 2022.
+
 [16] Shen, Tianxiang, et al. "{SOTER}: Guarding Black-box Inference for General Neural Networks at the Edge." 2022 USENIX Annual Technical Conference (USENIX ATC 22). 2022.
+
 [17] Cai, Yi, et al. "Enabling secure in-memory neural network computing by sparse fast gradient encryption." 2019 IEEE/ACM International Conference on Computer-Aided Design (ICCAD). IEEE, 2019.
+
 [18] Salehi, Mohsen, and Karthik Pattabiraman. "Poster AutoPatch: Automatic Hotpatching of Real-Time Embedded Devices." Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security. 2022.
+
 ![image](https://user-images.githubusercontent.com/47445756/233863575-75e9a548-23c5-4188-b0e7-4717bb4e93c1.png)
 
 
@@ -95,3 +145,9 @@ Security .
 [15]
 Sun, Zhichuang , et al. ShadowNet : A Secure and Efficient On device Model Inference System for Convolutional Neural Networks." 2023 IEEE Symposium on Security and Privacy (SP) SP).
 IEEE Computer Society, 2022.
+
+
+
+
+## Progression-3:
+
