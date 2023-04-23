@@ -204,13 +204,13 @@ Hanieh , Yongqin Wang, and Murali Annavaram . DarKnight : An accelerated framewo
 hardware." MICRO 54: 54th Annual IEEE/ACM International Symposium on Microarchitecture .
 
 [11]
-Niu , Yue, Ramy E. Ali, and Salman Avestimehr . "3LegRace: Privacy Preserving DNN Training over TEEs and GPUs." arXiv preprint arXiv:2110.01229 (
+Niu , Yue, Ramy E. Ali, and Salman Avestimehr . "3LegRace: Privacy Preserving DNN Training over TEEs and GPUs." arXiv preprint arXiv:2110.01229
 
 [12]
 Mo, Fan, et al. " Darknetz : towards model privacy at the edge using trusted execution Proceedings of the 18th International Conference on Mobile Systems,
 Applications, and Services .
 
 [13]
-Tramer , Florian, and Dan Boneh . "Slalom: Fast, verifiable and private execution of neural networks in trusted arXiv preprint arXiv:1806.03287 (
+Tramer , Florian, and Dan Boneh . "Slalom: Fast, verifiable and private execution of neural networks in trusted arXiv preprint arXiv:1806.03287
 
 
